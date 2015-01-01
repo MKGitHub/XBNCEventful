@@ -135,7 +135,7 @@
         [XBNCEventfulStatic sendEvent:9004 sender:self data:nil
                             onSuccess:^
                             {
-                                XBNCTestLogS(@"Event `9004` was succesfuly sent & received, because there is a receiver.");
+                                XBNCTestLogS(@"Event `9004` was successfully sent & received, because there is a receiver.");
                                 isSuccess = YES;
                             }
                                onFail:^
@@ -162,7 +162,7 @@
         [XBNCEventfulStatic sendEvent:9005 sender:self data:nil
                             onSuccess:^
                             {
-                                XBNCTestLogS(@"Event `9005` was succesfuly sent & received, because there is a receiver.");
+                                XBNCTestLogS(@"Event `9005` was successfully sent & received, because there is a receiver.");
                                 isSuccess = YES;
                             }
                                onFail:^
@@ -188,7 +188,7 @@
         [XBNCEventfulStatic sendEvent:9006 sender:self data:nil
                             onSuccess:^
                             {
-                                XBNCTestLogS(@"Event `9006` was succesfuly sent & received, because there is a receiver.");
+                                XBNCTestLogS(@"Event `9006` was successfully sent & received, because there is a receiver.");
                                 isSuccess = YES;
                             }
                                onFail:^
@@ -237,7 +237,7 @@
         XCTAssertEqual(9007, event.eventId, @"Event `9007` was not received!");
         XCTAssertEqual(1, event.triggerCount, @"Pass");
 
-        XBNCTestLogS(@"Event `9007` was succesfuly sent & received, in selector with event: %@", event);
+        XBNCTestLogS(@"Event `9007` was successfully sent & received, in selector with event: %@", event);
     }
 
 
@@ -251,7 +251,7 @@
         XCTAssertEqual(event9008TriggerCounter, event.triggerCount, @"Pass");
         XCTAssert(((event9008TriggerCounter >= 0) && (event9008TriggerCounter <= 3)), @"Pass");
 
-        XBNCTestLogS(@"Event `9008` was succesfuly sent & received, in selector with event: %@", event);
+        XBNCTestLogS(@"Event `9008` was successfully sent & received, in selector with event: %@", event);
     }
 
 
