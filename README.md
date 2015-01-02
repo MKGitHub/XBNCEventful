@@ -7,7 +7,7 @@ Please visit the Wiki link to the right.
 
 -
 
-   Created by Mohsan Khan.
+   https://github.com/MKGitHub/XBNCEventful
 
    http://www.xybernic.com
 
