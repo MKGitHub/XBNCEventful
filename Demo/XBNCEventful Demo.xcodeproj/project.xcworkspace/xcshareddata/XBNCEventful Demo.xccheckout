@@ -5,20 +5,20 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>18256CEA-6B0E-4661-8A2D-7062E385539D</string>
+	<string>EEB6D635-0305-446E-9A22-8862519BACC1</string>
 	<key>IDESourceControlProjectName</key>
-	<string>XBNCEventful</string>
+	<string>XBNCEventful Demo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>25889F95710FB15D840A2FBBFC33327C2363471B</key>
 		<string>https://github.com/MKGitHub/XBNCEventful.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>XBNCEventful.xcworkspace</string>
+	<string>Demo/XBNCEventful Demo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>25889F95710FB15D840A2FBBFC33327C2363471B</key>
-		<string>..</string>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/MKGitHub/XBNCEventful.git</string>

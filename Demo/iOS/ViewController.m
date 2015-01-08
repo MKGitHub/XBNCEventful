@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  XBNCEventful_iOS
+//  DemoiOS
 //
 //  https://github.com/MKGitHub/XBNCEventful
 //  http://www.xybernic.com

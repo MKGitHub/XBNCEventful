@@ -1,6 +1,6 @@
 //
-//  main.m
-//  XBNCEventful_iOS
+//  AppDelegate.h
+//  DemoiOS
 //
 //  https://github.com/MKGitHub/XBNCEventful
 //  http://www.xybernic.com
@@ -23,14 +23,10 @@
 
 @import UIKit;
 
-#import "AppDelegate.h"
 
+@interface AppDelegate:UIResponder <UIApplicationDelegate>
 
-int main(int argc, char *argv[])
-{
-    @autoreleasepool
-    {
-        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
-    }
-}
+    @property (strong, nonatomic) UIWindow *window;
+
+@end
 

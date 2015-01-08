@@ -1,6 +1,6 @@
 //
-//  Event1000TextField.h
-//  XBNCEventful_iOS
+//  Event2000TextField.h
+//  DemoiOS
 //
 //  https://github.com/MKGitHub/XBNCEventful
 //  http://www.xybernic.com
@@ -24,7 +24,7 @@
 @import UIKit;
 
 
-@interface Event1000TextField:UITextField
+@interface Event2000TextField:UITextField
 
 @end
 

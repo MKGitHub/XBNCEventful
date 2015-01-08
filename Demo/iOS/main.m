@@ -1,6 +1,6 @@
 //
-//  Event2000TextField.h
-//  XBNCEventful_iOS
+//  main.m
+//  DemoiOS
 //
 //  https://github.com/MKGitHub/XBNCEventful
 //  http://www.xybernic.com
@@ -23,8 +23,14 @@
 
 @import UIKit;
 
+#import "AppDelegate.h"
 
-@interface Event2000TextField:UITextField
 
-@end
+int main(int argc, char *argv[])
+{
+    @autoreleasepool
+    {
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
+    }
+}
 

@@ -1,6 +1,6 @@
 //
-//  AppDelegate.h
-//  XBNCEventful_iOS
+//  Event1000TextField.h
+//  DemoiOS
 //
 //  https://github.com/MKGitHub/XBNCEventful
 //  http://www.xybernic.com
@@ -24,9 +24,7 @@
 @import UIKit;
 
 
-@interface AppDelegate:UIResponder <UIApplicationDelegate>
-
-    @property (strong, nonatomic) UIWindow *window;
+@interface Event1000TextField:UITextField
 
 @end
 
