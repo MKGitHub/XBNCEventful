@@ -4,10 +4,15 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>XBNCEventful Demo.xcscheme</key>
+		<key>MacOSX Demo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>iOS Demo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
@@ -18,6 +23,16 @@
 			<true/>
 		</dict>
 		<key>4D8D38281A5F3082008DFEDD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4D8D386F1A5F37E8008DFEDD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4D8D38871A5F37E8008DFEDD</key>
 		<dict>
 			<key>primary</key>
 			<true/>
