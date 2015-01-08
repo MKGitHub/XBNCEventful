@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>XBNCEventful_MacOSX.xcscheme</key>
+		<key>XBNCEventful Demo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>4D10453A1A50E35F0082DA93</key>
+		<key>4D8D38121A5F3082008DFEDD</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4D1045501A50E35F0082DA93</key>
+		<key>4D8D38281A5F3082008DFEDD</key>
 		<dict>
 			<key>primary</key>
 			<true/>

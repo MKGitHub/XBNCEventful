@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4D10453A1A50E35F0082DA93"
-               BuildableName = "XBNCEventful_MacOSX.app"
-               BlueprintName = "XBNCEventful_MacOSX"
-               ReferencedContainer = "container:XBNCEventful_MacOSX.xcodeproj">
+               BlueprintIdentifier = "4D8D38121A5F3082008DFEDD"
+               BuildableName = "XBNCEventful Demo.app"
+               BlueprintName = "XBNCEventful Demo"
+               ReferencedContainer = "container:XBNCEventful Demo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4D1045501A50E35F0082DA93"
-               BuildableName = "XBNCEventful_MacOSXTests.xctest"
-               BlueprintName = "XBNCEventful_MacOSXTests"
-               ReferencedContainer = "container:XBNCEventful_MacOSX.xcodeproj">
+               BlueprintIdentifier = "4D8D38281A5F3082008DFEDD"
+               BuildableName = "XBNCEventful DemoTests.xctest"
+               BlueprintName = "XBNCEventful DemoTests"
+               ReferencedContainer = "container:XBNCEventful Demo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,30 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4D1045501A50E35F0082DA93"
-               BuildableName = "XBNCEventful_MacOSXTests.xctest"
-               BlueprintName = "XBNCEventful_MacOSXTests"
-               ReferencedContainer = "container:XBNCEventful_MacOSX.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4D1045821A50E3960082DA93"
-               BuildableName = "XBNCEventful_iOSTests.xctest"
-               BlueprintName = "XBNCEventful_iOSTests"
-               ReferencedContainer = "container:../XBNCEventful_iOS/XBNCEventful_iOS.xcodeproj">
+               BlueprintIdentifier = "4D8D38281A5F3082008DFEDD"
+               BuildableName = "XBNCEventful DemoTests.xctest"
+               BlueprintName = "XBNCEventful DemoTests"
+               ReferencedContainer = "container:XBNCEventful Demo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4D10453A1A50E35F0082DA93"
-            BuildableName = "XBNCEventful_MacOSX.app"
-            BlueprintName = "XBNCEventful_MacOSX"
-            ReferencedContainer = "container:XBNCEventful_MacOSX.xcodeproj">
+            BlueprintIdentifier = "4D8D38121A5F3082008DFEDD"
+            BuildableName = "XBNCEventful Demo.app"
+            BlueprintName = "XBNCEventful Demo"
+            ReferencedContainer = "container:XBNCEventful Demo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -85,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4D10453A1A50E35F0082DA93"
-            BuildableName = "XBNCEventful_MacOSX.app"
-            BlueprintName = "XBNCEventful_MacOSX"
-            ReferencedContainer = "container:XBNCEventful_MacOSX.xcodeproj">
+            BlueprintIdentifier = "4D8D38121A5F3082008DFEDD"
+            BuildableName = "XBNCEventful Demo.app"
+            BlueprintName = "XBNCEventful Demo"
+            ReferencedContainer = "container:XBNCEventful Demo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -103,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4D10453A1A50E35F0082DA93"
-            BuildableName = "XBNCEventful_MacOSX.app"
-            BlueprintName = "XBNCEventful_MacOSX"
-            ReferencedContainer = "container:XBNCEventful_MacOSX.xcodeproj">
+            BlueprintIdentifier = "4D8D38121A5F3082008DFEDD"
+            BuildableName = "XBNCEventful Demo.app"
+            BlueprintName = "XBNCEventful Demo"
+            ReferencedContainer = "container:XBNCEventful Demo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
