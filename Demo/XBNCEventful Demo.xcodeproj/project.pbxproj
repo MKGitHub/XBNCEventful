@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D69235B1A69CD6800B71408 /* HelloObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D69235A1A69CD6800B71408 /* HelloObject.m */; };
+		4D69235C1A69CD6800B71408 /* HelloObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D69235A1A69CD6800B71408 /* HelloObject.m */; };
 		4D8D38481A5F313B008DFEDD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D8D383B1A5F313B008DFEDD /* AppDelegate.m */; };
 		4D8D384A1A5F313B008DFEDD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D8D383C1A5F313B008DFEDD /* Main.storyboard */; };
 		4D8D384C1A5F313B008DFEDD /* CustomTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D8D383F1A5F313B008DFEDD /* CustomTextField.m */; };
@@ -56,6 +58,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4D6923591A69CD6800B71408 /* HelloObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelloObject.h; sourceTree = "<group>"; };
+		4D69235A1A69CD6800B71408 /* HelloObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelloObject.m; sourceTree = "<group>"; };
 		4D8D38131A5F3082008DFEDD /* MacOSX Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MacOSX Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D8D38291A5F3082008DFEDD /* MacOSX Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MacOSX Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D8D383A1A5F313B008DFEDD /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -129,11 +133,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4D6923581A69CD2F00B71408 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				4D6923591A69CD6800B71408 /* HelloObject.h */,
+				4D69235A1A69CD6800B71408 /* HelloObject.m */,
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
 		4D8D380A1A5F3082008DFEDD = {
 			isa = PBXGroup;
 			children = (
 				4D8D385A1A5F314F008DFEDD /* Classes */,
 				4D8D38621A5F314F008DFEDD /* Classes-Test */,
+				4D6923581A69CD2F00B71408 /* Common */,
 				4D8D38391A5F313B008DFEDD /* MacOSX */,
 				4D8D389D1A5F38AC008DFEDD /* iOS */,
 				4D8D38141A5F3082008DFEDD /* Products */,
@@ -385,6 +399,7 @@
 				4D8D38641A5F314F008DFEDD /* XBNCEvent.m in Sources */,
 				4D8D384E1A5F313B008DFEDD /* CustomView.m in Sources */,
 				4D8D38581A5F313B008DFEDD /* ViewController.m in Sources */,
+				4D69235B1A69CD6800B71408 /* HelloObject.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -411,6 +426,7 @@
 				4D8D389A1A5F3882008DFEDD /* XBNCEventReceiver.m in Sources */,
 				4D8D38BE1A5F38AC008DFEDD /* main.m in Sources */,
 				4D8D38B41A5F38AC008DFEDD /* Event1000TextField.m in Sources */,
+				4D69235C1A69CD6800B71408 /* HelloObject.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -715,6 +731,7 @@
 				4D8D38921A5F37E8008DFEDD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4D8D38931A5F37E8008DFEDD /* Build configuration list for PBXNativeTarget "iOS Tests" */ = {
 			isa = XCConfigurationList;
@@ -723,6 +740,7 @@
 				4D8D38951A5F37E8008DFEDD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
