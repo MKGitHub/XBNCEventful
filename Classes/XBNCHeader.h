@@ -59,7 +59,7 @@
 
 
     /*!
-     * @abstract Logging.
+     * @abstract Console logging.
      *
      * @since 1.0.0
      */
