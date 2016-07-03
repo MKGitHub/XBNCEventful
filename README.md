@@ -1,7 +1,6 @@
 XBNCEventful
 ============
 
-[![Status](https://img.shields.io/badge/I'm%20alive-In%20Development-brightgreen.svg)](https://github.com/MKGitHub/XBNCEventful)
 [![Pod](https://img.shields.io/badge/pod-0.1.0-blue.svg)](https://github.com/MKGitHub/XBNCEventful)
 [![Platform](https://img.shields.io/badge/Platforms-Mac%20OS%20X%20+%20iOS-yellow.svg)](https://github.com/MKGitHub/XBNCEventful)
 
